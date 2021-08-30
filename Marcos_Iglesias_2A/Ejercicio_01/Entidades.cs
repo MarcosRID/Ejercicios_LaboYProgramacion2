@@ -9,6 +9,11 @@ namespace Ejercicio_01
     public static class Entidades
     {
 
+        /// <summary>
+        /// Carga un array de enteros , ingresados por la consola. 
+        /// </summary>
+        /// <param name="cantidad">Numero entero que determina el espacio del array</param>
+        /// <returns>retorna un array de enteros </returns>
         public static int[] cargarArray(int cantidad)
         {
             int[] auxArray = new int[cantidad];
@@ -24,6 +29,11 @@ namespace Ejercicio_01
             return auxArray;
         }
 
+        /// <summary>
+        /// Retorna el numero mayor de un array de enteros
+        /// </summary>
+        /// <param name="auxArray"></param>
+        /// <returns></returns>
         public static int cacularMayor(int[] auxArray)
         {
             int numMax = 0 ;
@@ -49,6 +59,12 @@ namespace Ejercicio_01
             return numMax;
         }
         
+
+        /// <summary>
+        /// retorna el numero mas chico de un array de enteros
+        /// </summary>
+        /// <param name="auxArray"></param>
+        /// <returns></returns>
         public static int cacularMenor(int[] auxArray)
         {
             int numMin = 0;
@@ -73,6 +89,12 @@ namespace Ejercicio_01
             return numMin;
         }
 
+
+        /// <summary>
+        /// Calcula el promedio de un array de enteros.
+        /// </summary>
+        /// <param name="auxArray"></param>
+        /// <returns></returns>
         public static double carlularPromedio(int[] auxArray)
         {
             int cantidad = 0;

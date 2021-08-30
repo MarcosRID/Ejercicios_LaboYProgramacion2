@@ -6,7 +6,16 @@ namespace Ejercicio_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+            double exponenteCuadrado;
+            double exponenteCubo;
+
+            exponenteCuadrado = Entidades.calcularExponente(Entidades.ingresarNumero("Ingrese numero"),2);
+        
+            exponenteCubo = Entidades.calcularExponente(Entidades.ingresarNumero("Ingrese numero"), 3);
+
+            Console.WriteLine($" Exponente al cuadrado {exponenteCuadrado} \n Exponente al cubo {exponenteCubo} ");
         }
     }
 }
