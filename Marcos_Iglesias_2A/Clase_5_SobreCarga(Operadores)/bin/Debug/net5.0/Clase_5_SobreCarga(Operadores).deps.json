@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase_5_SobreCarga(Operadores)/1.0.0": {
+        "dependencies": {
+          "Clase_5_Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Clase_5_SobreCarga(Operadores).dll": {}
+        }
+      },
+      "Clase_5_Entidades/1.0.0": {
+        "runtime": {
+          "Clase_5_Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_5_SobreCarga(Operadores)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase_5_Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

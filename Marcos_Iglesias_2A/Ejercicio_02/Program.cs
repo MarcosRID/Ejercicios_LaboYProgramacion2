@@ -6,7 +6,10 @@ namespace Ejercicio_02
     {
         static void Main(string[] args)
         {
+            #region 
 
+            Console.Title = "Ejercicio 02";
+            #endregion
 
             double exponenteCuadrado;
             double exponenteCubo;

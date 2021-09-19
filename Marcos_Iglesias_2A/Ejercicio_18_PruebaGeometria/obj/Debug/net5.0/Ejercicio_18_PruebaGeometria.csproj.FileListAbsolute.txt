@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_PruebaGeometria\obj\Debug\net5.0\Ejercicio_18_PruebaGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_PruebaGeometria\obj\Debug\net5.0\Ejercicio_18_PruebaGeometria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_PruebaGeometria\obj\Debug\net5.0\Ejercicio_18_PruebaGeometria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_PruebaGeometria\obj\Debug\net5.0\Ejercicio_18_PruebaGeometria.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\ref\Ejercicio_18_Geometria.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\bin\Debug\net5.0\Ejercicio_18_Geometria.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\ref\Ejercicio_18_Geometria.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_18_Geometria\obj\Debug\net5.0\Ejercicio_18_Geometria.genruntimeconfig.cache

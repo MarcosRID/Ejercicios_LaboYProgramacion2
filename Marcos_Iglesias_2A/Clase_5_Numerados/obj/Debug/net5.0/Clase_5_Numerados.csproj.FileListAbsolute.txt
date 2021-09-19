@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\ref\Clase_5_Numerados.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\bin\Debug\net5.0\Clase_5_Numerados.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\ref\Clase_5_Numerados.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Clase_5_Numerados\obj\Debug\net5.0\Clase_5_Numerados.genruntimeconfig.cache

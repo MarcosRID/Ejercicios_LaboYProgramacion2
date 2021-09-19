@@ -8,7 +8,7 @@ namespace Ejercicio_01
         {
             #region 
 
-            Console.Title = "01";
+            Console.Title = "Ejercicio 01";
             #endregion
 
             int cantidad = 5;
@@ -28,6 +28,7 @@ namespace Ejercicio_01
 
             Console.WriteLine($" Numero maximo : {numMax}\n Numero minimo : {numMin} \n Promedio : {promedio}");
 
+         
         }
     }
 }

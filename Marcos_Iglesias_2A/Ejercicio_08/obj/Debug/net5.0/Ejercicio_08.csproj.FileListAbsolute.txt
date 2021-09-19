@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\ref\Ejercicio_08.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\bin\Debug\net5.0\Ejercicio_08.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\ref\Ejercicio_08.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Ejercicios_resueltos\Marcos_Iglesias_2A\Ejercicio_08\obj\Debug\net5.0\Ejercicio_08.genruntimeconfig.cache
